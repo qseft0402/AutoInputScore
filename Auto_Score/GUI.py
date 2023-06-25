@@ -78,6 +78,7 @@ excelColNameScore_entry.grid(row=7,column=1)
 sleep_label.grid(row=8,column=0)
 sleep_entry.grid(row=8,column=1)
 
+global account,passw,className,excelPath,excelColNameStdID,excelColNameScore
 account=account_entry.get()
 passw = passw_entry.get()
 className = className_entry.get()

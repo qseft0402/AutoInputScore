@@ -1,0 +1,11 @@
+D:\MyCode\AutoInputScore\Auto_Score_GUI\Auto_Score_GUI\obj\Debug\Auto_Score_GUI.csproj.AssemblyReference.cache
+D:\MyCode\AutoInputScore\Auto_Score_GUI\Auto_Score_GUI\obj\Debug\Auto_Score_GUI.csproj.SuggestedBindingRedirects.cache
+D:\MyCode\AutoInputScore\Auto_Score_GUI\Auto_Score_GUI\obj\Debug\Auto_Score_GUI.Form1.resources
+D:\MyCode\AutoInputScore\Auto_Score_GUI\Auto_Score_GUI\obj\Debug\Auto_Score_GUI.Properties.Resources.resources
+D:\MyCode\AutoInputScore\Auto_Score_GUI\Auto_Score_GUI\obj\Debug\Auto_Score_GUI.csproj.GenerateResource.cache
+D:\MyCode\AutoInputScore\Auto_Score_GUI\Auto_Score_GUI\obj\Debug\Auto_Score_GUI.csproj.CoreCompileInputs.cache
+D:\MyCode\AutoInputScore\Auto_Score_GUI\Auto_Score_GUI\bin\Debug\Auto_Score_GUI.exe.config
+D:\MyCode\AutoInputScore\Auto_Score_GUI\Auto_Score_GUI\bin\Debug\Auto_Score_GUI.exe
+D:\MyCode\AutoInputScore\Auto_Score_GUI\Auto_Score_GUI\bin\Debug\Auto_Score_GUI.pdb
+D:\MyCode\AutoInputScore\Auto_Score_GUI\Auto_Score_GUI\obj\Debug\Auto_Score_GUI.exe
+D:\MyCode\AutoInputScore\Auto_Score_GUI\Auto_Score_GUI\obj\Debug\Auto_Score_GUI.pdb
